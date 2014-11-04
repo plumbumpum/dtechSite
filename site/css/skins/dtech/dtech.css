@@ -176,6 +176,11 @@ header{
 	 text-transform: uppercase;
 }
 
+.dtech-mini-title {
+	color: #0f4f8c;
+	font-size: 15px;
+}
+
 .dtech-note-title {
 	color: #fff;
 	font-size: 20px !important;
@@ -201,6 +206,11 @@ header{
 	font-size: 21px;
 	line-height: 71px;
 	font-family: PFBeauSansPro-Regular;
+}
+
+.dtech-list li {
+	font-size: 19px;
+	color: #0f4f8c;
 }
 
 @media handheld, only screen and (max-width: 980px) {

@@ -137,7 +137,9 @@ body{
 	font-weight: normal;
 	background: url("../img/bg-theme/1.png");
 }
-h1, h2, h3, h4, h5, h6 {	
+h1, h2, h3, h4, h5, h6 {
+	font-family: PFBeauSansPro-Regular;
+
 	padding: 5px 0 15px 0;	
 	margin: 0;	
 	color: #333;
@@ -1613,7 +1615,7 @@ footer .tags a{
 	margin:auto 10px;
 }
 .list li{
-	line-height: 35px;
+	line-height: 28px;
 }
 .list li i{
 	padding-right: 8px;
